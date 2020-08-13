@@ -6,7 +6,6 @@
   Created by René Vollmer, November 2016
 */
 
-
 #ifndef tr064_h
 #define tr064_h
 
