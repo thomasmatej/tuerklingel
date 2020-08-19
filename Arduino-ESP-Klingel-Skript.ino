@@ -6,7 +6,7 @@
 #include <PubSubClient.h>
 
 //Die SSID Ihres WLANs
-const char* wifi_ssid = "tomswan";
+const char* wifi_ssid = "wifi_ssid";
 //Das Passwort Ihres WLANs
 const char* wifi_password = "derHasesitztimPfeffer";
 
@@ -14,7 +14,7 @@ const char* wifi_password = "derHasesitztimPfeffer";
 const char* fuser = "admin";
 
 //Das Passwort für Ihre Fritzbox
-const char* fpass = "min5taUran";
+const char* fpass = "password";
 
 //Die IP-Adresse Ihrer Fritzbox. Ab Werk lautet diese 192.168.178.1.
 const char* IP = "192.168.178.1";
