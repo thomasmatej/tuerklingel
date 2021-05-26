@@ -8,7 +8,7 @@
 //Die SSID Ihres WLANs
 const char* wifi_ssid = "wifi_ssid";
 //Das Passwort Ihres WLANs
-const char* wifi_password = "derHasesitztimPfeffer";
+const char* wifi_password = "passphrase";
 
 //Der Benutzername für Ihre Fritzbox. Wenn Sie keine separaten Benutzer angelegt haben, lautet dieser "admin".
 const char* fuser = "admin";
